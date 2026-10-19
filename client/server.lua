@@ -5,7 +5,7 @@
 -- =========================================================
 
 ESX = nil
-TriggerEvent('FineeaszKrul:getIqDogHahaha', function(o) ESX = o end)
+TriggerEvent('klakiiiiiii:getIqDogHahaha', function(o) ESX = o end)
 
 local SessionStorage = {
     UserStates = {},
