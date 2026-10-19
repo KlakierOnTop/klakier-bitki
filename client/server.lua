@@ -147,7 +147,7 @@ RegisterServerEvent('bitki:kill', function(context, killerId)
             
             TriggerClientEvent("bitki:lootingTime", p.value, isWinner)
             SetPlayerRoutingBucket(p.value, 0)
-            TriggerEvent('fineeaszkruljebacpsy:reviveson', p.value, true)
+            TriggerEvent('kllakiiiiiiiii:reviveson', p.value, true)
             Utils.UpdateStatus(p.value, 'currentBitka', nil)
         end
 
